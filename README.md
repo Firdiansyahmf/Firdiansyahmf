@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Firdiansyahmf
-- 👀 I’m interested in Web Development & Graphic Design 
-- 🌱 I’m currently learning Python programming language
+# 👋 Hi, I’m @Firdiansyahmf (Programf)
+
+- 👀 I’m interested in **Web Development**, **Database Administration**, and **Software Engineering**  
+- 🌱 I’m currently focusing on **Database Management and Optimization**  
 
 <!---
 Firdiansyahmf/Firdiansyahmf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
