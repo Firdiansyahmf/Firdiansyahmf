@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Firdiansyahmf (Programf)
 
-- 👀 I’m interested in **Web Development**, **Database Administration**, and **Software Engineering**  
+- 👀 I’m interested in **Web Development**, **Database Administrator**, and **Software Engineering**  
 - 🌱 I’m currently focusing on **Database Management and Optimization**  
 
 <!---
